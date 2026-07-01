@@ -159,11 +159,9 @@ Built With:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AyushRaj-005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-trophies.vercel.app/?username=AyushRaj-005&theme=tokyonight&no-frame=true"/>
 
 </div>
-
-
 
 ---
 
