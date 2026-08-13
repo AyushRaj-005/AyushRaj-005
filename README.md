@@ -127,18 +127,6 @@ Built With:
 
 
 
----
-
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=AyushRaj-005&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 
 
 # 🏆 GitHub Achievements
