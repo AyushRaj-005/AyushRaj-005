@@ -133,14 +133,8 @@ Built With:
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
-# 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-005&layout=compact&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=AyushRaj-005&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
